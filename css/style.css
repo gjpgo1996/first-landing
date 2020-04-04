@@ -83,5 +83,22 @@ body {
 
 .bg-light {
     background: #fff;
-    
+    color: #333;
+}
+
+.bg-dark {
+    background: #2f3542;
+    color: #fff;
+}
+
+.services {
+    padding: 2rem 0;
+}
+
+.footer {
+    padding: 2.2rem;
+}
+
+.footer p {
+    margin: 0;
 }
